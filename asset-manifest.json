@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/bogglesolver/static/css/main.46b028a2.css",
+    "main.js": "/github.io/bogglesolver/static/js/main.1d6815d5.js",
+    "index.html": "/github.io/bogglesolver/index.html",
+    "main.46b028a2.css.map": "/github.io/bogglesolver/static/css/main.46b028a2.css.map",
+    "main.1d6815d5.js.map": "/github.io/bogglesolver/static/js/main.1d6815d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b028a2.css",
+    "static/js/main.1d6815d5.js"
+  ]
+}
