@@ -2,7 +2,7 @@
   "name": "boggle-solver",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jcrews253/github.io/bogglesolver",
+  "homepage": "https://jcrews253.github.io/bogglesolver",
   "dependencies": {
     "@testing-library/react-hooks": "^7.0.2",
     "@types/react": "^17.0.38",
