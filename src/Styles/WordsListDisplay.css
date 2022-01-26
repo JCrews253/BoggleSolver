@@ -1,0 +1,11 @@
+.words-list-container {
+  width: 472px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  overflow-y: hidden;
+}
+
+.word-container {
+  padding: 5px;
+}

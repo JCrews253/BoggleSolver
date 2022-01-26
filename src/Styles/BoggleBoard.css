@@ -1,0 +1,26 @@
+.board-container {
+  background-color: #0373b1;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.row-container {
+  display: flex;
+}
+
+.dice-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: lightgray;
+  border: solid 2px black;
+  border-radius: 10px;
+  margin: 2px;
+  font-size: 32pt;
+  font-weight: 700;
+}

@@ -1,0 +1,31 @@
+/* Application CSS goes here */
+body {
+  background-color: lightgrey;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.app:focus {
+  outline: none;
+}
+
+.app > div:last-child {
+  flex-grow: 1;
+}
+
+.actions-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0px;
+  width: 472px;
+}
+
+.message {
+  font-size: 24pt;
+  margin: 0px;
+}

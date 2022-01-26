@@ -1,0 +1,22 @@
+.button-base {
+  padding: 10px 15px;
+  color: white;
+  background-color: orange;
+  border: none;
+  font-size: 16pt;
+  border-radius: 5px;
+  min-width: 120px;
+}
+
+.button-base:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.button-base:focus {
+  outline: none;
+}
+
+.button-base:disabled {
+  opacity: 0.4;
+}
